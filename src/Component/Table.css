@@ -1,0 +1,22 @@
+.rowBox {
+  width: 100px;
+  height: 30px;
+}
+body {
+  background-color: black;
+  color: white;
+}
+.rowBox:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+.table {
+  margin: 40px 20%;
+}
+
+.butt {
+  width: 100px;
+  height: 40px;
+  background-color: white;
+  margin: 10px 80px;
+}
